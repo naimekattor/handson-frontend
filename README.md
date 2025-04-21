@@ -10,7 +10,7 @@ This is a full-stack web application that allows users to browse, search, and cr
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (Mongoose ODM)
 - **Authentication:** JWT (JSON Web Token)
-  **Netlify (Frontend):** [Live Demo](https://zesty-medovik-79fc47.netlify.app/)
+- **Netlify (Frontend):** [Live Demo](https://zesty-medovik-79fc47.netlify.app/)
 
 ## 📌 Features
 
