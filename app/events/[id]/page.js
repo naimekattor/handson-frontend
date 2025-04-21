@@ -275,8 +275,8 @@ export default function EventPage() {
                     </div>
                   </div>
                   <p className="text-muted-foreground">
-                    Yes, there's a parking lot on 5th Ave about a block away
-                    from the entrance.
+                    Yes, there&apos;s a parking lot on 5th Ave about a block
+                    away from the entrance.
                   </p>
                 </div>
 
@@ -308,7 +308,7 @@ export default function EventPage() {
               ) : (
                 <div className="space-y-4">
                   <div className="rounded-md bg-green-50 p-3 text-green-700">
-                    <p className="font-medium">You're registered!</p>
+                    <p className="font-medium">You&apos;re registered!</p>
                     <p className="text-sm">
                       We look forward to seeing you there.
                     </p>
